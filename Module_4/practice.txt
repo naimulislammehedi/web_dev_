@@ -1,1 +1,34 @@
-hello
+practice task 1
+------------------------------
+create a webpage similar to the one given at the right 
+note: you can use any picture 
+
+practice task 2 
+-----------------------
+you have been invited to design a feedback form for a storytelling contest. Implement a textarea field where participants can share their stories. 
+- add attributes like rows and cols 
+- create a dropdown menu using the <select> and <option> tags to allow participants to rage (good, excellent etc)
+- add labels for each field
+- add a submit button
+
+practice task 3
+-----------------------------
+you are organizing a cricket tournament and need to create a webpage to display the tournament schedule and results. 
+- construct an HTML table using the <table>, <tr>, <th> and <td> tags. Include a caption to describe the tournament. 
+- utilize attributes like colspan and rowspan to merge cells when necessary. 
+- display the tournament brackets and update the results as the tournament progresses. 
+
+practice task 4
+-----------------------
+create a horizontal section showing 3 team member cards side by side using HTML & CSS flexbox 
+
+requirements: 
+- use a section with a heading "meet our tem" 
+- create a 'div' with 3 .card elements inside it. 
+- Each .card should include 
+    - a circular profile image 
+    - a name (e.g. "alex Johnson")
+    - a job title (e.g "Frontend Developer")
+    - a short description paragraph (2-3 lines). 
+- arrange all 3 cards side-by-side using flexbox 
+- add background color, padding and box shadow for styling 
